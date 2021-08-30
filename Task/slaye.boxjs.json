@@ -1,7 +1,7 @@
 {
 	"id": "sunert.app.sub",
 	"author": "@Slaye",
-	"icon": "http://slaye.cn/usr/uploads/2021/04/405929736.jpg",
+	"icon": "https://q2.qlogo.cn/headimg_dl?dst_uin=50733364&spec=100",
 	"name": "Slaye 羊毛自用订阅",
 	"repo": "http://slaye.cn",
 	"apps": [
@@ -182,7 +182,7 @@
 			],
 			"repo": "https://github.com/Sunert/Scripts/blob/master/Task/jukan.js",
 			"id": "jukan",
-			"script": "https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js",
+			"script": "https://ghproxy.com/https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jukan.js",
 			"settings": [{
 					"id": "jukan_out",
 					"val": false,
@@ -253,7 +253,7 @@
 			],
 			"repo": "https://github.com/age174/-/blob/main/lgyy.js",
 			"icons": ["https://ae01.alicdn.com/kf/Uc3c35e1796624a7ca6a23c89c7f0dff2H.jpg", "https://ae01.alicdn.com/kf/Uc3c35e1796624a7ca6a23c89c7f0dff2H.jpg"],
-			"script": "https://raw.githubusercontent.com/age174/-/main/lgyy.js"
+			"script": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/lgyy.js"
 		},
 		{
 			"id": "ximei",
@@ -277,7 +277,7 @@
 			],
 			"repo": "https://github.com/age174/-/blob/main/ximei.js",
 			"icons": ["https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg", "https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg"],
-			"script": "https://raw.githubusercontent.com/age174/-/main/ximei.js"
+			"script": "https://ghproxy.com/https://raw.githubusercontent.com/age174/-/main/ximei.js"
 		},
 		{
 			"id": "dkdvideo",
@@ -307,9 +307,9 @@
 				"desc": "默认1,即未满50提现1元。"
 			}],
 			"author": "@cenbomin",
-			"repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-			"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.js",
-			"icons": ["https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkd.png", "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkd.png"]
+			"repo": ["https://github.com/CenBoMin/GithubSync"],
+			"script": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkdvideo.js",
+			"icons": ["https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkd.png", "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/DKDVIDEO/dkd.png"]
 		},
 		 {
 			"id": "txstockapp",
@@ -323,8 +323,8 @@
 				"desc": "默认为0,不自动提现"
 			}],
 			"author": "@cenbomin",
-			"repo": ["https://raw.githubusercontent.com/CenBoMin/GithubSync"],
-			"script": "https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js",
+			"repo": ["https://github.com/CenBoMin/GithubSync"],
+			"script": "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js",
 			"icons": ["https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png", "https://ghproxy.com/https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txzxg.png"]
 		}
 	]
